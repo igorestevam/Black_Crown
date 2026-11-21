@@ -49,7 +49,7 @@
   // contacting an unrelated person, demo links do not open WhatsApp until configured.
   const DEMO_WHATSAPP='5511987654321';
   const toast=document.createElement('div'); toast.className='demo-toast'; toast.setAttribute('role','status');
-  toast.textContent='Este é um projeto fictício da ClickFocus. Configure o WhatsApp real antes de usar os agendamentos.';
+  toast.textContent='Agendamento e canais de contato indisponíveis no momento.';
   body.append(toast);
   let hideToast;
   document.querySelectorAll('a[href*="wa.me/"], a[href^="tel:+5511987654321"], a[href^="mailto:contato@blackcrownbarberstudio.com"]').forEach(a=>{

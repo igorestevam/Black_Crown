@@ -1,6 +1,6 @@
 # Black Crown Barber Studio — reprodução independente
 
-Recriação da landing page fictícia **Black Crown Barber Studio**, baseada no HTML gerado pelo SITE123 e fornecido pelo usuário. Projeto demonstrativo do portfólio da **ClickFocus**.
+Landing page conceitual da **Black Crown Barber Studio**, recriada a partir do HTML gerado pelo SITE123 e fornecido pelo usuário. Projeto integrante do portfólio da **ClickFocus**.
 
 ## O que foi preservado
 
